@@ -1,4 +1,10 @@
 __pycache__
 .venv
 venv
+
+# training/model outputs
 logs/
+regressionlogs/
+
+*.h5
+*.pkl
